@@ -2,11 +2,11 @@
 
 ## Cloning the code 
 ```
-git clone https://github.com/shubham1888/goapi
+git clone https://github.com/shubham1888/goApi
 ```
 ## Changing the directory
 ```
-cd goapi
+cd goApi
 ```
 ## Get the pacages
 ```
