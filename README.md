@@ -1,33 +1,33 @@
 # Api in go lang
 
-## Cloning the code 
+### Cloning the code 
 ```
 git clone https://github.com/shubham1888/goApi
 ```
-## Changing the directory
+### Changing the directory
 ```
 cd goApi
 ```
-## Get the pacages
+### Get the pacages
 ```
 go get .
 ```
-## Running the code
+### Running the code
 ```
 go run .
 ```
 
-## Get Request
+### Get Request
 ```
 curl http://localhost:8080/albums
 ```
 
-## Get single Data
+### Get single Data
 ```
 curl http://localhost:8080/albums/2
 ```
 
-## Post a data
+### Post a data
 ```
 curl http://localhost:8080/albums \
     --include \
