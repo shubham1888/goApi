@@ -1,4 +1,4 @@
-module github.com/shubham1888/goapi
+module github.com/shubham1888/goApi
 
 go 1.22.4
 

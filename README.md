@@ -8,6 +8,10 @@ git clone https://github.com/shubham1888/goapi
 ```
 cd goapi
 ```
+## Get the pacages
+```
+go get .
+```
 ## Running the code
 ```
 go run .
